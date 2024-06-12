@@ -1,6 +1,6 @@
 // DHT22 Humidity and Temperature
 // left pin on 3.3V
-// middle pin for data (pin is digital read)
+// middle pin for data (pin is digital read) pin number 4 in this example
 // right pin ground
 
 #include "DHT.h"
