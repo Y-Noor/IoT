@@ -58,5 +58,4 @@ void loop() {
 
 
 
- // One second delay
 }
